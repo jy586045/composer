@@ -1,0 +1,13 @@
+{
+    "name": "jy586045/composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jy586045",
+            "email": "402796325@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
